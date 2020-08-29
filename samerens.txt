@@ -6,7 +6,8 @@ Nulla accumsan consequat iaculis.
 Pellentesque at massa vitae sapien gravida iaculis.
 Suspendisse posuere, mauris at convallis viverra, magna justo pharetra ipsum, quis aliquam erat mi vel tellus.
 Vestibulum metus dui, feugiat nec aliquam quis, hendrerit sed eros.
-Aliquam erat volutpat. Pellentesque fermentum ullamcorper consequat.
+Aliquam erat volutpat.
+Pellentesque fermentum ullamcorper consequat.
 Quisque id congue nulla, et elementum nisi.
 Quisque aliquet nisi vitae lorem varius iaculis.
 Nulla facilisi.
@@ -28,7 +29,8 @@ Donec quis pellentesque ante, a tincidunt elit.
 Suspendisse id egestas diam. Vestibulum tristique ante non laoreet volutpat.
 Aliquam tincidunt rhoncus eros non eleifend.
 Quisque hendrerit mi varius, mattis sapien a, luctus mauris.
-Suspendisse potenti. Ut sollicitudin, turpis a pharetra laoreet, dui mauris rhoncus velit, quis vulputate arcu sapien eu lorem.
+Suspendisse potenti.
+Ut sollicitudin, turpis a pharetra laoreet, dui mauris rhoncus velit, quis vulputate arcu sapien eu lorem.
 Donec egestas, leo et molestie sodales, dolor risus tempus ante, ac tincidunt urna felis eget magna.
 Aenean vestibulum quam eget nisl congue malesuada.
 Nulla condimentum sapien nisl.
